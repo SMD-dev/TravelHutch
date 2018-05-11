@@ -3077,23 +3077,23 @@
 			}
 
 			.wrapper.style5 ::-webkit-input-placeholder {
-				color: #8E8892 !important;
+				color: rgb(118, 113, 121) !important;
 			}
 
 			.wrapper.style5 :-moz-placeholder {
-				color: #8E8892 !important;
+				color: rgb(118, 113, 121) !important;
 			}
 
 			.wrapper.style5 ::-moz-placeholder {
-				color: #8E8892 !important;
+				color: rgb(118, 113, 121) !important;
 			}
 
 			.wrapper.style5 :-ms-input-placeholder {
-				color: #8E8892 !important;
+				color: rgb(118, 113, 121) !important;
 			}
 
 			.wrapper.style5 .formerize-placeholder {
-				color: #8E8892 !important;
+				color: rgb(118, 113, 121) !important;
 			}
 
 			.wrapper.style5 .icon.major {
